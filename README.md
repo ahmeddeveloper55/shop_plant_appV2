@@ -1,14 +1,14 @@
 # plant_appui
 
 A new Flutter project.
-An Plant Shop App
+An Plant Shop App.
 
 Tech Stack :
- 1 - > databases :  MongoDb 
- 2 - > rest Api : Java Spring boot
- 3 - > Ui : Flutter 
- 4 - > StateManagment : Provider 
- 5 - > Deployment Server : Heroku 
+ 1 - > databases :  MongoDb .
+ 2 - > rest Api : Java Spring boot.
+ 3 - > Ui : Flutter. 
+ 4 - > StateManagment : Provider .
+ 5 - > Deployment Server : Heroku .
  
 
 ## Getting Started
