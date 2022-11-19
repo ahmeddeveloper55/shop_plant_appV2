@@ -4,8 +4,8 @@ A new Flutter project.
 An Plant Shop App.
 
 Tech Stack :
+
  1 - > databases :  MongoDb .  
- 
  
  2 - > rest Api : Java Spring boot.
  
